@@ -4,20 +4,20 @@ This project is a decentralized application (DApp) built using React, Vite, and 
 
 ## Features
 
-- **Connect with MetaMask**: Allows users to connect their wallet to the DApp.
-- **Smart Contract Interaction**: Users can interact with the smart contract to fetch, add, and authorize healthcare provider records.
-- **Role-based Access Control**: Only authorized healthcare providers and the owner can add and access patient records.
-- **React Frontend**: Provides a user-friendly interface built with React.
-- **MetaMask Integration**: Ensures users are notified if MetaMask is installed and connected.
+    Connect with MetaMask: Allows users to connect their wallet to the DApp.
+    Smart Contract Interaction: Users can interact with the smart contract to fetch, add, and authorize healthcare provider records.
+    Role-based Access Control: Only authorized healthcare providers and the owner can add and access patient records.
+    React Frontend: Provides a user-friendly interface built with React.
+    MetaMask Integration: Ensures users are notified if MetaMask is installed and connected.
 
 ## Prerequisites
 
-Before running this project, make sure you have the following installed:
+    Before running this project, make sure you have the following installed:
 
-- **Node.js** (v14 or higher)
-- **MetaMask** or another Ethereum wallet extension
-- **Vite** (used for building and serving the app)
-- **Solidity** (for smart contract development)
+    Node.js (v14 or higher)
+    MetaMask or another Ethereum wallet extension
+    Vite (used for building and serving the app)
+    Solidity (for smart contract development)
 
 ## Setup
 
