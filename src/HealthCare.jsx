@@ -126,7 +126,7 @@ const HealthCare = () => {
           {account ? (
             <>
               <p><strong>Connected Wallet:</strong> {account}</p>
-              <p><strong>Network:</strong> {networkName || "Unknown"}</p>
+              {networkName &&<p><strong>Network:</strong> {networkName}</p>}
               {isOwner && <p>You are the contract owner</p>}
 
               {/* Fetch Patient Records */}
